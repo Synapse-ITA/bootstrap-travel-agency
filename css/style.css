@@ -12,18 +12,15 @@
 /*CLASSI PRIMA CARD */
 
 
-.card-img-top {
+.card-img-top-1 {
     width: 400px;
     height: 400px;
-   
 }
 
 .card-1 {
     background-color: aqua;
     width: 400px;
     height: 400px;
-    border-radius: solid;
-    border-color: blueviolet;
 }
 
 .card-title-1 {
@@ -40,6 +37,64 @@
     padding-left: 5px;
     padding-right: 5px;
     text-align: center;
-    
+}
 
+/*CLASSI SECONDA CARD*/
+
+.card-img-top-2 {
+    width: 400px;
+    height: 400px;
+}
+
+.card-2 {
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+}
+
+.card-title-2 {
+    padding: 15px;
+    background-color: rgb(4, 77, 8);
+    color: white;
+    text-align: center;
+
+}
+
+.card-text-2 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+
+/*CLASSI TERZA CARD */
+
+.card-img-top-3 {
+    width: 400px;
+    height: 400px;
+}
+
+.card-3 {
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    border-radius: solid;
+    border-color: blueviolet;
+}
+
+.card-title-3 {
+    padding: 15px;
+    background-color: rgb(61, 222, 243);
+    color: white;
+    text-align: center;
+
+}
+
+.card-text-3 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
 }
