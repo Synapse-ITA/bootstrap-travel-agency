@@ -13,14 +13,14 @@
 
 
 .card-img-top-1 {
-    width: 400px;
-    height: 400px;
+    width: 100%;
+    height: auto;
 }
 
 .card-1 {
-    background-color: aqua;
-    width: 400px;
-    height: 400px;
+    max-width: 100%;
+    height: auto;
+    border: 2px aqua;
 }
 
 .card-title-1 {
@@ -42,14 +42,14 @@
 /*CLASSI SECONDA CARD*/
 
 .card-img-top-2 {
-    width: 400px;
-    height: 400px;
+    width: 100%;
+    height: auto;
 }
 
 .card-2 {
-    background-color: aqua;
-    width: 400px;
-    height: 400px;
+    max-width: 100%;
+    height: auto;
+    border: 2px aqua;
 }
 
 .card-title-2 {
@@ -71,16 +71,14 @@
 /*CLASSI TERZA CARD */
 
 .card-img-top-3 {
-    width: 400px;
-    height: 400px;
+    width: 100%;
+    height: auto;
 }
 
 .card-3 {
-    background-color: aqua;
-    width: 400px;
-    height: 400px;
-    border-radius: solid;
-    border-color: blueviolet;
+    max-width: 100%;
+    height: auto;
+    border: 2px aqua;
 }
 
 .card-title-3 {
@@ -98,3 +96,5 @@
     padding-right: 5px;
     text-align: center;
 }
+
+form {}
