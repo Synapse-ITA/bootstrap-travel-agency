@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+/*CLASSI PRIMA CARD */
+
+
+.card-img-top {
+    width: 400px;
+    height: 400px;
+   
+}
+
+.card-1 {
+    background-color: aqua;
+    width: 400px;
+    height: 400px;
+    border-radius: solid;
+    border-color: blueviolet;
+}
+
+.card-title-1 {
+    padding: 15px;
+    background-color: rgb(243, 102, 21);
+    color: white;
+    text-align: center;
+
+}
+
+.card-text-1 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    
+
+}
